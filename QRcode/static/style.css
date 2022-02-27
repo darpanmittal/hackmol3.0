@@ -1,0 +1,17 @@
+body {
+    background-color: #F3C5C5;
+}
+
+h1 {
+    color: #086E7D;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
